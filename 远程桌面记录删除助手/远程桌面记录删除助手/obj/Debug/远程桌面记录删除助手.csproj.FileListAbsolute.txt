@@ -1,0 +1,9 @@
+D:\OneDrive\电脑\DDisk\编程文件\C#\远程桌面记录删除助手\远程桌面记录删除助手\bin\Debug\RemoteDelete.exe.config
+D:\OneDrive\电脑\DDisk\编程文件\C#\远程桌面记录删除助手\远程桌面记录删除助手\bin\Debug\RemoteDelete.exe
+D:\OneDrive\电脑\DDisk\编程文件\C#\远程桌面记录删除助手\远程桌面记录删除助手\bin\Debug\RemoteDelete.pdb
+D:\OneDrive\电脑\DDisk\编程文件\C#\远程桌面记录删除助手\远程桌面记录删除助手\obj\Debug\远程桌面记录删除助手.Form1.resources
+D:\OneDrive\电脑\DDisk\编程文件\C#\远程桌面记录删除助手\远程桌面记录删除助手\obj\Debug\RemoteDelete.Properties.Resources.resources
+D:\OneDrive\电脑\DDisk\编程文件\C#\远程桌面记录删除助手\远程桌面记录删除助手\obj\Debug\远程桌面记录删除助手.csproj.GenerateResource.cache
+D:\OneDrive\电脑\DDisk\编程文件\C#\远程桌面记录删除助手\远程桌面记录删除助手\obj\Debug\远程桌面记录删除助手.csproj.CoreCompileInputs.cache
+D:\OneDrive\电脑\DDisk\编程文件\C#\远程桌面记录删除助手\远程桌面记录删除助手\obj\Debug\RemoteDelete.exe
+D:\OneDrive\电脑\DDisk\编程文件\C#\远程桌面记录删除助手\远程桌面记录删除助手\obj\Debug\RemoteDelete.pdb
